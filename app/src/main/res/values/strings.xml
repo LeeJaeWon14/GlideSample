@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GlideSample</string>
+    <string name="str_button_local">LOCAL</string>
+    <string name="str_button_URL">URL</string>
+</resources>
