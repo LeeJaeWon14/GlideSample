@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun loadGlideURL() {
         Glide.with(this)
-            .load("https://bit.ly/32dCOFa")
+            .load("https://avatars.githubusercontent.com/u/65227900?s=400&u=b4de577f215977cbba5631ae2d93f2a93c834897&v=4")
             .override(800, 1076)
             .error(R.drawable.photo3)
             .into(binding.imgGlideImage)
